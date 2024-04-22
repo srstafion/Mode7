@@ -1,0 +1,8 @@
+﻿  Mode7.cpp
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(7,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(54,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(54,37): warning C4244:         with
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(54,37): warning C4244:         [
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(54,37): warning C4244:             T=int
+C:\Users\Denis pipis\source\repos\Mode7\Mode7.cpp(54,37): warning C4244:         ]
+  Mode7.vcxproj -> C:\Users\Denis pipis\source\repos\Mode7\x64\Debug\Mode7.exe
